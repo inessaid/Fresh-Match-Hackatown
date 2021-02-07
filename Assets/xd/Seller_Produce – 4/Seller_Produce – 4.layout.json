@@ -1,0 +1,1777 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Seller_Produce – 4",
+    "elements": [
+      {
+        "type": "Text",
+        "name": "NEXT",
+        "text": {
+          "text": "NEXT",
+          "textType": "point",
+          "font": "Maiandra GD",
+          "style": "Regular",
+          "size": 18,
+          "color": "#223634",
+          "align": "centermiddle",
+          "opacity": 100
+        },
+        "guid": "2ee8688f-7d10-4917-b05c-7e605a798090",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5093,
+          "y": 3610,
+          "width": 48,
+          "height": 21,
+          "ex": 5141,
+          "ey": 3631,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.8193384223918575,
+            "y": 0.057549504950495045
+          },
+          "anchor_max": {
+            "x": 0.8193384223918575,
+            "y": 0.057549504950495045
+          },
+          "offset_min": {
+            "x": -24,
+            "y": -10.5
+          },
+          "offset_max": {
+            "x": 24,
+            "y": 10.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "NEXT"
+        ]
+      },
+      {
+        "type": "Text",
+        "name": "Select all that apply",
+        "text": {
+          "text": "Select all that apply.",
+          "textType": "point",
+          "font": "Maiandra GD",
+          "style": "Regular",
+          "size": 18,
+          "color": "#fff4df",
+          "align": "centermiddle",
+          "opacity": 100
+        },
+        "guid": "0d26538a-2153-4a0c-b1d2-619086de9579",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4846,
+          "y": 3038,
+          "width": 158,
+          "height": 21,
+          "ex": 5004,
+          "ey": 3059,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.3307888040712468,
+            "y": 0.7654702970297029
+          },
+          "anchor_max": {
+            "x": 0.3307888040712468,
+            "y": 0.7654702970297029
+          },
+          "offset_min": {
+            "x": -79,
+            "y": -10.5
+          },
+          "offset_max": {
+            "x": 79,
+            "y": 10.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Select_all_that_apply",
+          "."
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Group 9",
+        "elements": [
+          {
+            "type": "Group",
+            "name": "Group 8",
+            "elements": [
+              {
+                "type": "Group",
+                "name": "Group 10",
+                "elements": [
+                  {
+                    "type": "Text",
+                    "name": "WHAT KIND OF \nGOODS DO YOU\u000bWANT TO BUY?",
+                    "text": {
+                      "text": "WHAT KIND OF \nGOODS DO YOU\u000bWANT TO BUY?",
+                      "textType": "point",
+                      "font": "Maiandra GD",
+                      "style": "Regular",
+                      "size": 30,
+                      "color": "#fff4df",
+                      "align": "leftmiddle",
+                      "opacity": 100
+                    },
+                    "guid": "22a56c0e-2ceb-479a-8829-5d0edcd5e842",
+                    "active": true,
+                    "global_draw_bounds": {
+                      "x": 4846,
+                      "y": 2920,
+                      "width": 239,
+                      "height": 108,
+                      "ex": 5085,
+                      "ey": 3028,
+                      "text": {
+                        "fontSize": 30
+                      }
+                    },
+                    "rect_transform": {
+                      "fix": {
+                        "left": true,
+                        "right": true,
+                        "top": true,
+                        "bottom": true,
+                        "width": false,
+                        "height": false
+                      },
+                      "pivot": {
+                        "x": 0.5,
+                        "y": 0.5
+                      },
+                      "anchor_min": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "anchor_max": {
+                        "x": 1,
+                        "y": 1
+                      },
+                      "offset_min": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "offset_max": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "layer": "UI",
+                    "parsed_names": [
+                      "WHAT_KIND_OF__GOODS_DO_YOU_WANT_TO_BUY_"
+                    ]
+                  }
+                ],
+                "guid": "5d33d6af-fd49-4ec1-81b1-575f700ac85e",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4846,
+                  "y": 2920,
+                  "width": 239,
+                  "height": 108,
+                  "ex": 5085,
+                  "ey": 3028
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": -0.00048828125,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": -0.00048828125,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Group_10"
+                ]
+              }
+            ],
+            "guid": "955aff9e-ffb0-430a-bff3-91868db6ee3f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4846.00048828125,
+              "y": 2920,
+              "width": 239,
+              "height": 108,
+              "ex": 5085.00048828125,
+              "ey": 3028
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0,
+                "bottom": 0,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.5
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.5
+              },
+              "offset_min": {
+                "x": 0,
+                "y": -54
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 54
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Group_8"
+            ]
+          }
+        ],
+        "guid": "95f3e97a-03e9-4afe-ab09-d6f6b4a5b149",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4846.00048828125,
+          "y": 2920,
+          "width": 239,
+          "height": 108,
+          "ex": 5085.00048828125,
+          "ey": 3028
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4338434816316794,
+            "y": 0.8576732673267327
+          },
+          "anchor_max": {
+            "x": 0.4338434816316794,
+            "y": 0.8576732673267327
+          },
+          "offset_min": {
+            "x": -119.5,
+            "y": -54
+          },
+          "offset_max": {
+            "x": 119.5,
+            "y": 54
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Group_9"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Group 9",
+        "elements": [
+          {
+            "type": "Group",
+            "name": "Component 1 – 87",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "OTHERS",
+                "text": {
+                  "text": "OTHERS",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "6497bd9e-089f-4c99-8ab3-5490cf419888",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4901,
+                  "y": 3520,
+                  "width": 182,
+                  "height": 24,
+                  "ex": 5083,
+                  "ey": 3544,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0,
+                    "bottom": 0,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "OTHERS"
+                ]
+              }
+            ],
+            "guid": "e75b9b77-5db9-4567-9f1d-453c8c5f91b8",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4901,
+              "y": 3520,
+              "width": 182,
+              "height": 24,
+              "ex": 5083,
+              "ey": 3544
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.9207708779443254,
+                "bottom": true,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0
+              },
+              "offset_min": {
+                "x": 44,
+                "y": 13
+              },
+              "offset_max": {
+                "x": -44,
+                "y": 37
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___87"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Rectangle 11",
+            "guid": "db5b6a27-2518-42fe-96d4-064ec00d8ea0",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3506,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3557
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": -416
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rectangle_11"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rectangle 11+db5b6"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "Component 1 – 86",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "DAIRY",
+                "text": {
+                  "text": "DAIRY",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "4d1681a9-f98d-4c95-aff1-b9176ec99dd4",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4901,
+                  "y": 3442,
+                  "width": 182,
+                  "height": 24,
+                  "ex": 5083,
+                  "ey": 3466,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0,
+                    "bottom": 0,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "DAIRY"
+                ]
+              }
+            ],
+            "guid": "d91b6698-1de8-47b5-a2b1-75a610c79155",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4901,
+              "y": 3442,
+              "width": 182,
+              "height": 24,
+              "ex": 5083,
+              "ey": 3466
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.7537473233404711,
+                "bottom": 0.1948608137044968,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.22055674518201285
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.22055674518201285
+              },
+              "offset_min": {
+                "x": 44,
+                "y": -12
+              },
+              "offset_max": {
+                "x": -44,
+                "y": 12
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___86"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Rectangle 10",
+            "guid": "6378d2ae-2497-47c2-9ca7-f5d1a1998b03",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3428,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3479
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 78
+              },
+              "offset_max": {
+                "x": 0,
+                "y": -338
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rectangle_10"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rectangle 10+6378d"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "Component 1 – 85",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "LIVESTOCK",
+                "text": {
+                  "text": "LIVESTOCK",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "a61d6a39-9ba8-4c57-9f51-a860b9b74d80",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4890,
+                  "y": 3364,
+                  "width": 204,
+                  "height": 24,
+                  "ex": 5094,
+                  "ey": 3388,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0,
+                    "bottom": 0,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "LIVESTOCK"
+                ]
+              }
+            ],
+            "guid": "868567fd-8ef6-45f5-af42-a47ea776b19f",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4890,
+              "y": 3364,
+              "width": 204,
+              "height": 24,
+              "ex": 5094,
+              "ey": 3388
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.5867237687366167,
+                "bottom": 0.3618843683083512,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.3875802997858673
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.3875802997858673
+              },
+              "offset_min": {
+                "x": 33,
+                "y": -12
+              },
+              "offset_max": {
+                "x": -33,
+                "y": 12
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___85"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Rectangle 9",
+            "guid": "c00e3755-ea78-4f4b-abf9-369d86987bc1",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3350,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3401
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 156
+              },
+              "offset_max": {
+                "x": 0,
+                "y": -260
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rectangle_9"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rectangle 9+c00e3"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "Component 1 – 84",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "MISFIT PRODUCE",
+                "text": {
+                  "text": "MISFIT PRODUCE",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "01a9016e-a08b-4869-a009-a778174c10f4",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4901,
+                  "y": 3286,
+                  "width": 182,
+                  "height": 24,
+                  "ex": 5083,
+                  "ey": 3310,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0,
+                    "bottom": 0,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.5
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.5
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "MISFIT_PRODUCE"
+                ]
+              }
+            ],
+            "guid": "5e1f6592-a2cc-4e06-aa36-46b70f687d87",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4901,
+              "y": 3286,
+              "width": 182,
+              "height": 24,
+              "ex": 5083,
+              "ey": 3310
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.4197002141327623,
+                "bottom": 0.5289079229122056,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.5546038543897216
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.5546038543897216
+              },
+              "offset_min": {
+                "x": 44,
+                "y": -12
+              },
+              "offset_max": {
+                "x": -44,
+                "y": 12
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___84"
+            ]
+          },
+          {
+            "type": "Image",
+            "name": "Rectangle 8",
+            "guid": "78be2e10-b887-4866-8cbe-804a5d0e7a31",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3272,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3323
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 234
+              },
+              "offset_max": {
+                "x": 0,
+                "y": -182
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rectangle_8"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rectangle 8+78be2"
+            }
+          },
+          {
+            "type": "Group",
+            "name": "Component 1 – 83",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "SPECIALTY PRODUCE",
+                "text": {
+                  "text": "SPECIALTY PRODUCE",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "f5115d54-4701-4f29-a939-7212671d9b36",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4894,
+                  "y": 3195,
+                  "width": 195,
+                  "height": 24,
+                  "ex": 5089,
+                  "ey": 3219,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0.27450980392156865,
+                    "bottom": 0.2549019607843137,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.4901960784313726
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.4901960784313726
+                  },
+                  "offset_min": {
+                    "x": 37,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": -38,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "SPECIALTY_PRODUCE"
+                ]
+              },
+              {
+                "type": "Image",
+                "name": "Rectangle 5",
+                "guid": "4288643d-9ad7-493c-adc3-31e49f3af0d8",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4857,
+                  "y": 3181,
+                  "width": 270,
+                  "height": 51,
+                  "ex": 5127,
+                  "ey": 3232
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Rectangle_5"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Rectangle 5+42886"
+                }
+              }
+            ],
+            "guid": "adafa9c5-8a7d-4083-962e-234bf1f1c844",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3181,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3232
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": 0.1948608137044968,
+                "bottom": 0.69593147751606,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0.7505353319057817
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 0.7505353319057817
+              },
+              "offset_min": {
+                "x": 0,
+                "y": -25.5
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 25.5
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___83"
+            ]
+          },
+          {
+            "type": "Group",
+            "name": "Component 1 – 82",
+            "elements": [
+              {
+                "type": "Text",
+                "name": "FINE GOODS",
+                "text": {
+                  "text": "FINE GOODS",
+                  "textType": "paragraph",
+                  "font": "Maiandra GD",
+                  "style": "Regular",
+                  "size": 20,
+                  "color": "#fff4df",
+                  "align": "centerupper",
+                  "opacity": 100
+                },
+                "guid": "6a9250d5-9041-47bb-b525-fdca193c1589",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4899,
+                  "y": 3104,
+                  "width": 196,
+                  "height": 24,
+                  "ex": 5095,
+                  "ey": 3128,
+                  "text": {
+                    "fontSize": 20
+                  }
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0.27450980392156865,
+                    "bottom": 0.2549019607843137,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0.4901960784313726
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0.4901960784313726
+                  },
+                  "offset_min": {
+                    "x": 42,
+                    "y": -12
+                  },
+                  "offset_max": {
+                    "x": -32,
+                    "y": 12
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "FINE_GOODS"
+                ]
+              },
+              {
+                "type": "Image",
+                "name": "Rectangle 5",
+                "guid": "9eb53b13-54f8-4fd6-95cb-7f58bca55255",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4857,
+                  "y": 3090,
+                  "width": 270,
+                  "height": 51,
+                  "ex": 5127,
+                  "ey": 3141
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Rectangle_5"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Rectangle 5+9eb53"
+                }
+              }
+            ],
+            "guid": "628f110a-2098-42ce-9f79-e71494b30cd4",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4857,
+              "y": 3090,
+              "width": 270,
+              "height": 51,
+              "ex": 5127,
+              "ey": 3141
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": 0.8907922912205567,
+                "width": false,
+                "height": true
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 1
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 1
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": -51
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Component_1___82"
+            ]
+          }
+        ],
+        "guid": "cdc5a02e-9e4a-4cc5-a0c9-c59e2acf3788",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4857,
+          "y": 3090,
+          "width": 270,
+          "height": 467,
+          "ex": 5127,
+          "ey": 3557
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5012722646310432,
+            "y": 0.4251237623762376
+          },
+          "anchor_max": {
+            "x": 0.5012722646310432,
+            "y": 0.4251237623762376
+          },
+          "offset_min": {
+            "x": -135,
+            "y": -233.5
+          },
+          "offset_max": {
+            "x": 135,
+            "y": 233.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Group_9"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Component 1 – 81",
+        "elements": [
+          {
+            "type": "Image",
+            "name": "Rectangle 5",
+            "guid": "54c81c9a-c9bd-48c2-82dc-d7b9f8fe35b9",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 5071,
+              "y": 3603,
+              "width": 93,
+              "height": 36,
+              "ex": 5164,
+              "ey": 3639
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Rectangle_5"
+            ],
+            "opacity": 100,
+            "image": {
+              "source_image": "Rectangle 5+54c81"
+            }
+          }
+        ],
+        "guid": "11f13024-6a95-4110-b0d1-fd1acd5e27dd",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5071,
+          "y": 3603,
+          "width": 93,
+          "height": 36,
+          "ex": 5164,
+          "ey": 3639
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.8206106870229007,
+            "y": 0.056930693069306926
+          },
+          "anchor_max": {
+            "x": 0.8206106870229007,
+            "y": 0.056930693069306926
+          },
+          "offset_min": {
+            "x": -46.5,
+            "y": -18
+          },
+          "offset_max": {
+            "x": 46.5,
+            "y": 18
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Component_1___81"
+        ]
+      },
+      {
+        "type": "Group",
+        "name": "Group 9",
+        "elements": [
+          {
+            "type": "Group",
+            "name": "Group 11",
+            "elements": [
+              {
+                "type": "Image",
+                "name": "Path 8",
+                "guid": "d8980e3e-9af4-4452-baec-3a46b70f3a56",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4793,
+                  "y": 3272.768310546875,
+                  "width": 394.99951171875,
+                  "height": 410.20166015625,
+                  "ex": 5187.99951171875,
+                  "ey": 3682.969970703125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": 0.5190901505968489,
+                    "bottom": true,
+                    "width": false,
+                    "height": true
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 0
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": -0.0009765625,
+                    "y": 410.20166015625
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Path_8"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Path 8+d8980"
+                }
+              },
+              {
+                "type": "Image",
+                "name": "Path 7",
+                "guid": "16efe0d6-4a5c-4135-b6c9-1cb6840fdbc3",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4793,
+                  "y": 2945.0654296875,
+                  "width": 394.99951171875,
+                  "height": 622.839599609375,
+                  "ex": 5187.99951171875,
+                  "ey": 3567.905029296875
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0,
+                    "y": 115.06494140625
+                  },
+                  "offset_max": {
+                    "x": -0.0009765625,
+                    "y": -115.0654296875
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Path_7"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Path 7+16efe"
+                }
+              },
+              {
+                "type": "Image",
+                "name": "Rectangle 7",
+                "guid": "557d8124-06ec-417a-a579-f7c070aef767",
+                "active": true,
+                "global_draw_bounds": {
+                  "x": 4793.00048828125,
+                  "y": 2830,
+                  "width": 394.99951171875,
+                  "height": 852.969970703125,
+                  "ex": 5188,
+                  "ey": 3682.969970703125
+                },
+                "rect_transform": {
+                  "fix": {
+                    "left": true,
+                    "right": true,
+                    "top": true,
+                    "bottom": true,
+                    "width": false,
+                    "height": false
+                  },
+                  "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "anchor_min": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "anchor_max": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "offset_min": {
+                    "x": 0.00048828125,
+                    "y": 0
+                  },
+                  "offset_max": {
+                    "x": -0.00048828125,
+                    "y": 0
+                  }
+                },
+                "layer": "UI",
+                "parsed_names": [
+                  "Rectangle_7"
+                ],
+                "opacity": 100,
+                "image": {
+                  "source_image": "Rectangle 7+557d8"
+                }
+              }
+            ],
+            "guid": "ab1332b9-3f1c-4f81-b63a-23550786835c",
+            "active": true,
+            "global_draw_bounds": {
+              "x": 4793,
+              "y": 2830,
+              "width": 395.00048828125,
+              "height": 852.969970703125,
+              "ex": 5188.00048828125,
+              "ey": 3682.969970703125
+            },
+            "rect_transform": {
+              "fix": {
+                "left": true,
+                "right": true,
+                "top": true,
+                "bottom": true,
+                "width": false,
+                "height": false
+              },
+              "pivot": {
+                "x": 0.5,
+                "y": 0.5
+              },
+              "anchor_min": {
+                "x": 0,
+                "y": 0
+              },
+              "anchor_max": {
+                "x": 1,
+                "y": 1
+              },
+              "offset_min": {
+                "x": 0,
+                "y": 0
+              },
+              "offset_max": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "layer": "UI",
+            "parsed_names": [
+              "Group_11"
+            ]
+          }
+        ],
+        "guid": "6e2cd093-99e9-40d2-a257-fe89bdbd41a3",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4793,
+          "y": 2830,
+          "width": 395.00048828125,
+          "height": 852.969970703125,
+          "ex": 5188.00048828125,
+          "ey": 3682.969970703125
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.49745609196087787,
+            "y": 0.5080631369411355
+          },
+          "anchor_max": {
+            "x": 0.49745609196087787,
+            "y": 0.5080631369411355
+          },
+          "offset_min": {
+            "x": -197.500244140625,
+            "y": -426.4849853515625
+          },
+          "offset_max": {
+            "x": 197.500244140625,
+            "y": 426.4849853515625
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Group_9"
+        ]
+      }
+    ],
+    "guid": "10700c9d-5b9d-40c7-9c77-73401ce46fe5",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 4795,
+      "y": 2859,
+      "width": 393,
+      "height": 808,
+      "ex": 5188,
+      "ey": 3667
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -196.5,
+        "y": -404
+      },
+      "offset_max": {
+        "x": 196.5,
+        "y": 404
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Seller_Produce___4"
+    ],
+    "fill_color": "#ffffff"
+  }
+}

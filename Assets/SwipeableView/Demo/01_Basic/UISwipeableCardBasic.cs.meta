@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0052b652448244915a3c6200c195ce18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _viewData: {instanceID: 0}
+  - matched: {fileID: 1756737808614365578, guid: b6db2bb6491cf514b9b1e9b6663c09f5,
+      type: 3}
+  - bg: {instanceID: 0}
+  - imgLike: {instanceID: 0}
+  - imgNope: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
