@@ -1,4 +1,7 @@
 # Fresh Match Hackatown
+
+<img src="https://cdn.discordapp.com/attachments/732405970692735066/808023181415415818/ezgif-6-d7378158e08b.gif"
+     style="float: left; margin-right: 10px;" />
  
 ## Background
 
@@ -16,8 +19,6 @@ a limited customer base.
 
 ## What It Does
 
-<img src="https://cdn.discordapp.com/attachments/732405970692735066/808023181415415818/ezgif-6-d7378158e08b.gif"
-     style="float: left; margin-right: 10px;" />
 
 We introduce "FreshMatch", an application designed to help businesses and private shoppers connect with local producers. Our application enhances efficiency in local food markets by reducing the time necessary for consumers to source local produce, effectively serving as a "smart broker". "FreshMatch" provides both Business to Business and Business to Customer services, which are designed to meet the needs of  all stakeholders involved in the local food indsutry. For producers, our application offers enhanced branding opportunities through an AR  scanner for use in supermarkets, which presents branded information to end consumers. For restauraunts and similar organizations, the application matches the user with local producers based on preferences indicated during account creation, using a mechanism similar to the app  "Tinder". This also benefits producers who are seeking buyers for their goods. Finally, private shoppers benefit from using the app to quickly 
 locate local food during their regular shopping trip. 
